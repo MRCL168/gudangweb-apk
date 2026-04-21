@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">GudangWeb</string>
-    <string name="webview_url">https://www.gudangweb.com</string>
-    <string name="connection_error">Koneksi gagal dimuat. Coba lagi.</string>
-    <string name="file_picker_unavailable">Pemilih file tidak tersedia di perangkat ini.</string>
-</resources>
